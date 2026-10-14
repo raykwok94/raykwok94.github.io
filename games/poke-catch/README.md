@@ -6,7 +6,7 @@ A bilingual 60-second fan mini game by Ray Kwok, built with HTML, CSS, inline SV
 
 https://raykwok94.github.io/games/poke-catch/
 
-Tap/click a Pokémon or press 1–6. A missed target resets the streak. Each catch earns 10 points plus a capped streak bonus. The pace increases after 20 and 40 seconds. Space/Escape pauses; switching tabs pauses the timer. A completed round saves its high score locally. Reduced-motion mode keeps targets stationary.
+Click/tap to aim a throw from the bottom of the field. The ball follows an arc and only scores if its landing point hits a Pokémon. One throw must finish before another can launch. Missed throws and escaped targets reset the streak. There are no number shortcuts. Each catch earns 10 points plus a capped streak bonus. The pace increases after 20 and 40 seconds. Space/Escape pauses; switching tabs pauses the timer. A completed round saves its high score locally in a separate record for the throw mode. Reduced-motion mode keeps targets stationary.
 
 ## Run locally
 
